@@ -1,5 +1,6 @@
 ---?include=contents/chap01/PITCHME.md
 ---?include=contents/chap02/PITCHME.md
 ---?include=contents/chap03/PITCHME.md
+---?include=contents/chap06/PITCHME.md
 ---?include=contents/chap04/PITCHME.md
 ---?include=contents/chap05/PITCHME.md
